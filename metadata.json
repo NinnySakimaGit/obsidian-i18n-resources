@@ -52,19 +52,6 @@
     "updated_at": "2026-07-09T14:40:51.067Z"
   },
   {
-    "id": "2ECkp_vAwNhCrvqU-3ZBNeKQ5FtmFZtz",
-    "plugin": "obsidian-minimal-settings",
-    "type": "plugin",
-    "language": "zh-cn",
-    "version": "1.0.0",
-    "supported_versions": "8.2.3",
-    "title": "Minimal Theme Settings",
-    "description": "Minimal Theme Settings Localization & Tweaks",
-    "hash": "753ec735753ec735753ec735753ec735",
-    "created_at": "2026-07-09T14:40:51.069Z",
-    "updated_at": "2026-07-09T14:40:51.069Z"
-  },
-  {
     "id": "vSP7QYe1ox-HGE0Au1f1CGk5J6D8DpLe",
     "plugin": "table-editor-obsidian",
     "type": "plugin",
