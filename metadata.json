@@ -52,19 +52,6 @@
     "updated_at": "2026-07-09T14:40:51.067Z"
   },
   {
-    "id": "_9m1FmM9NZn-ZL_GMygGn42v-oztOJ_p",
-    "plugin": "pdf-plus",
-    "type": "plugin",
-    "language": "zh-cn",
-    "version": "1.0.0",
-    "supported_versions": "0.40.31",
-    "title": "PDF++",
-    "description": "PDF++ Localization & Tweaks",
-    "hash": "4e5126784e5126784e5126784e512678",
-    "created_at": "2026-07-09T14:40:51.070Z",
-    "updated_at": "2026-07-09T14:40:51.070Z"
-  },
-  {
     "id": "2ECkp_vAwNhCrvqU-3ZBNeKQ5FtmFZtz",
     "plugin": "obsidian-minimal-settings",
     "type": "plugin",
