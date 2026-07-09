@@ -1,2 +1,3 @@
 # obsidian-i18n-resources
-My Obsidian plugin translations (created by obsidian-i18n)
+
+obsidian-i18n中插件的翻译文本仓库
