@@ -193,5 +193,31 @@
         "hash": "329d3bfc329d3bfc329d3bfc329d3bfc",
         "created_at": "2026-07-09T14:40:51.086Z",
         "updated_at": "2026-07-09T14:40:51.086Z"
+    },
+    {
+        "id": "zkWWfCG_f76XdJ6Mwwa3rV0V4mq2pudz",
+        "plugin": "homepage",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.1",
+        "supported_versions": "4.4.4",
+        "title": "Homepage",
+        "description": "Homepage Localization & Tweaks",
+        "hash": "2c5f13892c5f13892c5f13892c5f1389",
+        "created_at": "2026-07-10T12:12:38.869Z",
+        "updated_at": "2026-07-10T12:12:38.869Z"
+    },
+    {
+        "id": "w7TGicvRgvkyvDx3NtarrPofd-xJ6e8w",
+        "plugin": "obsidian-reminder-plugin",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "1.1.21",
+        "title": "Reminder",
+        "description": "Reminder plugin for Obsidian. This plugin adds feature to manage TODOs with reminder.",
+        "hash": "3be6050d3be6050d3be6050d3be6050d",
+        "created_at": "2026-07-10T12:12:38.869Z",
+        "updated_at": "2026-07-10T12:12:38.869Z"
     }
 ]
